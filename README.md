@@ -1,5 +1,5 @@
-# Connexa
+# Nekorporát s.r.o.
 
 Organisaion profile repository.
 
-https://connexa.cz
+https://nekorporat.cz
