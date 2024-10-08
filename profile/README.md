@@ -1,4 +1,4 @@
-# Nekorporát s.r.o.
+# Synapto Platform (Nekorporát s.r.o.)
 
 ## Tvoříme možnosti, řešíme překážky
 
